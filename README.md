@@ -9,7 +9,7 @@
 
   <h2 align="center">Current Timer</h2>
 
-  In this project, I have created Current Timer that display current time on the website, <br />The project is built using HTML5, CSS3 & Javascript.
+  In this project, I have created Current Timer that display's current time on the website, <br />The project is built using HTML5, CSS3 & Javascript.
 
   <a href="https://geeky-prashant.github.io/current-timer/"><strong>➥ Live Demo</strong></a>
 
